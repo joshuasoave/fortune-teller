@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc3af2d9.chunk.css",
-    "main.js": "/static/js/main.19563702.chunk.js",
-    "main.js.map": "/static/js/main.19563702.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6f63c765.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6f63c765.js.map",
-    "static/js/2.40791c26.chunk.js": "/static/js/2.40791c26.chunk.js",
-    "static/js/2.40791c26.chunk.js.map": "/static/js/2.40791c26.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.53515cebae91855b59cd1ec8fa944fad.js": "/precache-manifest.53515cebae91855b59cd1ec8fa944fad.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.fc3af2d9.chunk.css.map": "/static/css/main.fc3af2d9.chunk.css.map",
-    "static/js/2.40791c26.chunk.js.LICENSE.txt": "/static/js/2.40791c26.chunk.js.LICENSE.txt"
+    "main.css": "/fortune-teller/static/css/main.fc3af2d9.chunk.css",
+    "main.js": "/fortune-teller/static/js/main.19563702.chunk.js",
+    "main.js.map": "/fortune-teller/static/js/main.19563702.chunk.js.map",
+    "runtime-main.js": "/fortune-teller/static/js/runtime-main.96551770.js",
+    "runtime-main.js.map": "/fortune-teller/static/js/runtime-main.96551770.js.map",
+    "static/js/2.40791c26.chunk.js": "/fortune-teller/static/js/2.40791c26.chunk.js",
+    "static/js/2.40791c26.chunk.js.map": "/fortune-teller/static/js/2.40791c26.chunk.js.map",
+    "index.html": "/fortune-teller/index.html",
+    "precache-manifest.c1772517ed1d3156e3fe9fd9d398fb72.js": "/fortune-teller/precache-manifest.c1772517ed1d3156e3fe9fd9d398fb72.js",
+    "service-worker.js": "/fortune-teller/service-worker.js",
+    "static/css/main.fc3af2d9.chunk.css.map": "/fortune-teller/static/css/main.fc3af2d9.chunk.css.map",
+    "static/js/2.40791c26.chunk.js.LICENSE.txt": "/fortune-teller/static/js/2.40791c26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f63c765.js",
+    "static/js/runtime-main.96551770.js",
     "static/js/2.40791c26.chunk.js",
     "static/css/main.fc3af2d9.chunk.css",
     "static/js/main.19563702.chunk.js"
